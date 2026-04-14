@@ -285,6 +285,10 @@ footer {
 .footer-right strong {
   font-weight: 700;
 }
+.traduction p {
+color: rgba(17, 17, 17, 0.689);
+opacity: 0.8;
+}
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 800px) {
